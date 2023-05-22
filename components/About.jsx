@@ -13,7 +13,7 @@ const About = () => {
           </p>
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
-          I'm fresh graduate with a passion for web development, I eager to apply my skills and knowledge to make a positive impact in the industry.
+          I&apos;m fresh graduate with a passion for web development, I eager to apply my skills and knowledge to make a positive impact in the industry.
           I am committed to building intuitive and user-friendly websites that meet the needs of clients and end-users alike.
           I thrive in dynamic and fast- paced environments and am always looking for new challenges to help me grow both personally and professionally.
           I am a quick learner, an effective communicator, and a team player, with a dedication to delivering quality work under tight deadlines.
