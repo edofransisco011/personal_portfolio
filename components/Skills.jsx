@@ -11,7 +11,7 @@ import NextJS from '../public/assets/skills/nextjs.png'
 import Node from '../public/assets/skills/node.png'
 import Express from '../public/assets/skills/express.png'
 import Mongo from '../public/assets/skills/mongo.png'
-import Three from '../public/assets/skills/three.png'
+import TsImg from '../public/assets/skills/type.png'
 import AWS from '../public/assets/skills/aws.png';
 
 const Skills = () => {
@@ -126,10 +126,10 @@ const Skills = () => {
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <Image src={Three} width='64px' height='64px' alt='/' />
+                <Image src={TsImg} width='64px' height='64px' alt='/' />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3>Three</h3>
+                <h3>Typescript</h3>
               </div>
             </div>
           </div>

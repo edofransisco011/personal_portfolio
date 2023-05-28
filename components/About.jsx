@@ -20,7 +20,7 @@ const About = () => {
           I am excited to be part of a team that values innovation, creativity, and excellence, and I am eager to contribute my skills to help achieve our shared goals
           </p>
           <Link href='/#projects'>
-            <button className='px-8 mr-8 py-2 mt-4'>
+            <button className='px-8 mr-8 py-2 mt-4 flex:auto'>
               Check out some of my latest projects 👌
             </button>
           </Link>
